@@ -1,1 +1,1 @@
-# UI/UX(react) of official website of vedEFI
+# UI/UX of official website of vedEFI
